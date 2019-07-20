@@ -1,0 +1,5 @@
+#explicit inclusion
+*
+!*/
+!.gitignore
+!*.md
